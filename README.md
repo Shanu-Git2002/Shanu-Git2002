@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanu-git2002&label=Profile%20views&color=0e75b6&style=flat" alt="shanu-git2002" /> </p>
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m currently learning **mern stackK**
 
 - 💬 Ask me about **react**
 
