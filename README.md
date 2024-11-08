@@ -16,8 +16,6 @@
 <p align="left">
 <a href="https://codepen.io/shanu-kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="shanu-kumari" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shanu kumari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanu kumari" height="30" width="40" /></a>
-<a href="https://instagram.com/shanukumari147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanukumari147" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shanukumari9627" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shanukumari9627" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shanukum2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shanukum2002" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumarishanu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarishanu" height="30" width="40" /></a>
 </p>
