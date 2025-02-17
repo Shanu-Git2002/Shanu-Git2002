@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shanu Kumari</h1>
 <h3 align="center">A passionate mern stack developer from India</h3>
-<img align="right" alt="codding" width="400" src="https://i.pinimg.com/originals/bb/93/8b/bb938bd50fcfedccd720641f5a824bba.gif">
+<img align="right" alt="codding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JqNW01cnBkOXBuM3NtbzVvOG5lMXE0MGY3MnJ1cDNybnFxYWdiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0ILLVvPp8d64Jd6/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanu-git2002&label=Profile%20views&color=0e75b6&style=flat" alt="shanu-git2002" /> </p>
 
